@@ -1,4 +1,5 @@
-# NxNQueen-Problem Swing Interface
+NxNQueen-Problem Swing Interface
+
 JAVA IDE + SWING Components - I used Eclipse and windows builder. 
 This is a Java Swing interface that implements the NxN Queens Problem using several Artificial Inteligence algorythms. The time of solving the NxNQueens problems depends on the algorithm and its random states created.
 
@@ -8,5 +9,5 @@ The following algorythms are:
 - Local Beam - The art of creating N states, each with N possible ways of improving its state and in the end select the best N states.
 - Genetic Algorithm - The art of creating a population of random states, ordering the best chromossomes(states), crossovering(between two states) random features of each chromossome, with probability and mutating the worst chromossomes except the elite ones, also with probability.
 
-The Test.java is unecessary for the implementation of the interface since its purpose was to test each algorithm individually on the console.
+P.S - The Test.java is unecessary for the implementation of the interface since its purpose was to test each algorithm individually on the console.
 Any questions about the algorithm, send me a message. 
