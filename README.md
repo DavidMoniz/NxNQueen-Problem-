@@ -1,8 +1,6 @@
-# NxNQueen-Problem
-JAVA IDE + SWING Components
-This is a Java Swing interface that implements the NxN Queens Problem using several Artificial Inteligence algorythms.
-
-The Swing is 
+# NxNQueen-Problem Swing Interface
+JAVA IDE + SWING Components - I used Eclipse and windows builder. 
+This is a Java Swing interface that implements the NxN Queens Problem using several Artificial Inteligence algorythms. The time of solving the NxNQueens problems depends on the algorithm and its random states created.
 
 The following algorythms are:
 - Hill Climbing - The art of choosing the best heuristic in the first expantion.
