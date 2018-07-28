@@ -1,2 +1,2 @@
-# NxNQueen-Problem-
+# NxNQueen-Problem
 JAVA IDE + SWING Components
